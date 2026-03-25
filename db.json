@@ -9,9 +9,6 @@
     { "itemCode": "Code7", "description": "D7" },
     { "itemCode": "Code8", "description": "D8" },
     { "itemCode": "Code9", "description": "D9" },
-    { "itemCode": "Code10", "description": "D10" },
-    { "itemCode": "Code11", "description": "D11" },
-    { "itemCode": "Code12", "description": "D12" },
-    { "itemCode": "Code13", "description": "D13" }
+    { "itemCode": "Code10", "description": "D10" }
   ]
 }
