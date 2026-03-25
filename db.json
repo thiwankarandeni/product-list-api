@@ -1,12 +1,5 @@
 {
   "products": [
-    { "itemCode": "Code1", "description": "D1" },
-    { "itemCode": "Code2", "description": "D2" },
-    { "itemCode": "Code3", "description": "D3" },
-    { "itemCode": "Code4", "description": "D4" },
-    { "itemCode": "Code5", "description": "D5" },
-    { "itemCode": "Code6", "description": "D6" },
-    { "itemCode": "Code7", "description": "D7" },
-    { "itemCode": "Code8", "description": "D8" }
+    { "itemCode": "Code1", "description": "D1" }
   ]
 }
